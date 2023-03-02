@@ -1,2 +1,7 @@
 # DataProjects
-Just starting with data
+## R
+R project using tidyverse to query and clean data 
+
+## Python
+
+
