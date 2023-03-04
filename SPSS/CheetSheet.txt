@@ -1,0 +1,42 @@
+To save the results of your analysis in SPSS, you must have the Data Editor Window open on the screen in front of you.
+False
+
+
+Merging files:
+Adding variables: Data >> Merge Files >> Add Variables (join)
+
+Adding cases: Data >> Merge Files >> Add Cases
+
+Dealing with outliers:
+
+1) Analyze  Descriptive Statistics  Discriptives ->Check Save standardized residuals(of Speed) as variables (ZSpeed)
+2)Compute -> Abs(ZSpeed) - absolute value of residuals
+3)Create category by the value of residual 
+Lowerst to 1.96 - Category 1
+1.96-Highest -> 2
+2.58 to Highest->3
+3.29->Highest->4
+4) Analyze->Descriptive Statistics->Frequencies Check the percentage where outliers are (category 4)
+Remove category 3 and 4 to remove all outliers
+
+Other way: 
+==========
+Analysing outliers
+1. create output for visual analysis: Alalyze/Descriptive/Explore\
+2. crete z-score: analyse/descriptive/check save score as var
+3. create absolute value of z- score
+4. Group by z-score how much the value from deviation(sigma, 2 sigmas....)
+5. remove values that are too big(small)
+==========================================================
+
+
+Normality
+To assess the normality of your data, you can look at:
+
+All of the above: 
+A histogram of the data
+A Normal Q-Q plot of the data
+A detrended normal Q-Q plot of the data
+Results of the Kolmogorov-Smirnov test
+
+
