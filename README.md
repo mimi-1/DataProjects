@@ -25,4 +25,4 @@ Used tidyverse to clean and query data.
 - Analyzing bank rates and prime rates in Canada (data from the Bank of Canada)
 
 ## SPSS
-Using SPSS for Hypothesis Testing and Regression, Predictive models with SPSS Modeller
+SPSS and SPSS Modeller files with  Hypothesis Testing, Regression, and Predictive Analytics.
